@@ -1,5 +1,5 @@
 # About Me:
-Im currently advancing as a fullstack developer.
+Im a Fullstack Developer.
 
 ### Tech Stack
   <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java"  width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/></a>
